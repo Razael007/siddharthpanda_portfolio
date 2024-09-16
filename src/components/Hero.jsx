@@ -1,5 +1,5 @@
 import { HERO_CONTENT } from "../../react-portfolio-assets-kevin-main/constants";
-import profilePic from "/Users/siddharthpanda/Productivity/Coding/react-portfolio/src/assets/1000020882.jpg";
+import profilePic from "../../src/assets/1000020882.jpg";
 import {motion} from "framer-motion";
 const container = (delay)=>({
   hidden: {x: -100, opacity: 0},
