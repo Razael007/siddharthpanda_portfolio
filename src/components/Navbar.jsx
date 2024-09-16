@@ -1,4 +1,4 @@
-import logo from "/Users/siddharthpanda/Productivity/Coding/react-portfolio/src/assets/logos (1)/Siddharth Panda_transparent-.png";
+import logo from "/Users/siddharthpanda/Productivity/Coding/react-portfolio/src/assets/logos/Siddharth_Panda_transparent-.png";
 import { FaLinkedin, FaGithub, FaInstagram } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa6"; // Updated to FaTwitter from fa6
 
