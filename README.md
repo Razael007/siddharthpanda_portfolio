@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Designed and developed a personal portfolio using modern web technologies, including React and Next.js, to showcase projects, experience, and skills. The portfolio features a clean, responsive layout with a focus on user experience, allowing visitors to seamlessly navigate through various sections. Integrated a downloadable resume feature and an interactive contact form to engage potential employers. The project reflects a strong command of front-end development while maintaining performance and accessibility standards.
 
 Currently, two official plugins are available:
 
